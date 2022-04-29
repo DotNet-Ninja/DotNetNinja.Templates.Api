@@ -1,2 +1,2 @@
 # DotNetNinja.Templates.Api
-ASP.Net 5 Rest Api Template - Batteries Included
+ASP.Net 6 Rest Api Template - Batteries Included
